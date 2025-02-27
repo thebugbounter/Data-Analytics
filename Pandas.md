@@ -1,4 +1,4 @@
-Here’s a **detailed Pandas guide** with **explanations and outputs** for each concept, ensuring clarity in data analysis.
+# Pandas
 
 ---
 
