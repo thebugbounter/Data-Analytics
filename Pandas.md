@@ -1,7 +1,5 @@
 # Pandas
 
----
-
 # **1. Introduction to Pandas**
 
 Pandas is a Python library used for **data manipulation, analysis, and cleaning**. It provides two primary data structures:
@@ -315,8 +313,3 @@ plt.show()
 
 ---
 
-# **Conclusion**
-
-This guide provides a **detailed walkthrough** of Pandas, covering **data structures, manipulation, merging, aggregation, missing values, file handling, and visualization**.
-
-🚀 **Let me know if you need any further explanations!**
